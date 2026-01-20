@@ -194,3 +194,4 @@ Docs/readme tweak: 2026-01-19 21:42:04
 Research update: 2026-01-20 01:42:06
 Bugfix note: 2026-01-20 07:42:09
 Bugfix note: 2026-01-20 11:42:12
+Bugfix note: 2026-01-20 15:42:13

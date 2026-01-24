@@ -207,3 +207,4 @@ Docs/readme tweak: 2026-01-23 15:54:46
 Docs/readme tweak: 2026-01-23 20:54:48
 Refactor step: 2026-01-24 03:54:51
 Research update: 2026-01-24 08:54:53
+Bugfix note: 2026-01-24 12:54:55

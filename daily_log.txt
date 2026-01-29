@@ -227,3 +227,4 @@ Docs/readme tweak: 2026-01-28 05:55:28
 Research update: 2026-01-28 12:55:30
 Bugfix note: 2026-01-28 16:55:33
 Optimization pass: 2026-01-28 22:55:35
+Bugfix note: 2026-01-29 06:55:37

@@ -235,3 +235,4 @@ Docs/readme tweak: 2026-01-30 01:55:46
 Bugfix note: 2026-01-30 08:55:49
 Bugfix note: 2026-01-30 14:55:51
 Bugfix note: 2026-01-30 21:55:53
+Research update: 2026-01-31 03:55:55

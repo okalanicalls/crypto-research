@@ -250,3 +250,4 @@ Refactor step: 2026-02-02 19:56:45
 Bugfix note: 2026-02-03 03:56:49
 Refactor step: 2026-02-03 11:56:53
 Refactor step: 2026-02-03 18:56:56
+Docs/readme tweak: 2026-02-04 00:56:59
